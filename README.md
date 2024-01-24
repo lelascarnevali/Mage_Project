@@ -6,7 +6,7 @@ This repository aims to build a solution for the following challenge: "Extract d
 
 To run the solution, follow the steps below:
 
-1. Clone the repository:
+1. Clone the repository (Private):
 
    ```bash
    git clone https://github.com/lecarnevali/Brewery_Project.git
